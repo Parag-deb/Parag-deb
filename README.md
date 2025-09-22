@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there 👋, I'm Parag..
+
+## Hi there 👋, I'm Parag..
 💡 CSE Student | 💻 Full-Stack Developer | 🤖 AI Engineer in Progress | 
 
 <!--
