@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Hi there 👋, I'm Parag (BOSS)
+💡 CSE Student | 💻 Full-Stack Developer | 🤖 AI Engineer in Progress
 
 <!--
 **Parag-deb/Parag-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
